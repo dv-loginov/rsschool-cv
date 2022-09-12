@@ -24,10 +24,14 @@ For a long time he was engaged in system administration. Currently I am taking c
     }
 ***
 ## Experience
+
 http://dv-loginov.ru/
+
 ***
 ## Education
+
 Lipetsk State Technical University
+
 ***
 ## Courses:
 + RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
